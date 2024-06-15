@@ -1,0 +1,36 @@
+#EXTM3U
+ 
+
+
+#EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-300x300.png" , Retro Magico
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Magic kids" tvg-name="Magic kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" , Magic kids 
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" ,EnerGeek (720p) [Not 24/7]
+https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" , DREIKO TV
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" , ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w272276921.m3u8
+
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" ,Fanpop TV
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmEdwYxB8GX7I0LjhSXoPSnbhrJRWB4EGgg&s" , Latino Kids
+https://cloud5.streaminglivehd.com:3555/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" ,Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroTVPalmares.cr" tvg-logo="https://i.imgur.com/F2rdjwJ.png",Retro TV Palmarés (360p) [Not 24/7]
+https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro Toons" tvg-name="Retro Toons" tvg-logo="" , Retro Toons
+https://retrotoons.ddns.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" ,Canal LMS
+https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
