@@ -29,9 +29,6 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroTVPalmares.cr" tvg-logo="https://i.imgur.com/F2rdjwJ.png",Retro TV Palmarés (360p) [Not 24/7]
 https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Retro Toons" tvg-name="Retro Toons" tvg-logo="" , Retro Toons
-https://retrotoons.ddns.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="Canal LMS" tvg-name="Canal LMS" tvg-logo="https://i.ibb.co/27QWJ0V/logo-Canal-LMS.png" ,Canal LMS
 https://ssh101.bozztv.com/ssh101/canallms/playlist.m3u8
 
